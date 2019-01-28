@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">MiTiempo</string>
+    <string name="app_name">Mi Tiempo</string>
+    <string name="errorRed">Compruebe la conexión a Internet</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+
+    <!-- Strings Main Activity -->
+    <string name="texto_grados">0°</string>
+    <string name="texto_ciudad">Ciudad</string>
+    <string name="texto_estatus">Estado</string>
+
+    <string name="errorLocation">No se ha podido detectar tu Localización</string>
+
+    <string name="Permiso_LocalizacionT">Se necesita permisos de Localización</string>
+    <string name="Permiso_LocalizacionM">Esta aplicación necesita permisos de Localización, por favor aceptalos.
+    </string>
+    <string name="Permiso_aceptado">Permiso Aceptado</string>
+    <string name="Permiso_denegado">Permiso Denegado</string>
+
+    <string name="GPS_Titulo">Habilitar GPS</string>
+    <string name="GPS_mensaje">Por favor activa el GPS</string>
+    <string name="GPS_ajustes">Ajustes GPS</string>
 </resources>
